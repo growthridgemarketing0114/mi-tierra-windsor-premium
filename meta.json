@@ -1,0 +1,31 @@
+{
+  "display_number": 2,
+  "id": "B1-008",
+  "slug": "mi-tierra-windsor-premium",
+  "folder": "02-mi-tierra-windsor-premium",
+  "tier": "premium",
+  "sibling_essential": "02-mi-tierra-windsor",
+  "business_name": "Mi Tierra Mexican Restaurant",
+  "address": "1550 Main St #106",
+  "city": "Windsor",
+  "state": "CO",
+  "zip": "80550",
+  "phone": "970-460-0327",
+  "phone_tel": "+19704600327",
+  "facebook_url": "https://www.facebook.com/mitierrawindsor/",
+  "hours": "Mon\u2013Sat 6:00 AM \u2013 8:00 PM; Sun 8:00 AM \u2013 2:00 PM",
+  "cuisine": "Mexican",
+  "status": "ready",
+  "design_system": "Warm editorial / modern Mexican neighborhood luxury \u2014 cinematic food hero, Fraunces display + Outfit sans, deep chile / warm cream / antique gold / espresso ink. Sticky category menu nav, accordion sections on mobile, reveal-on-scroll (reduced-motion safe). Distinct from Essential terra-leaf Karla+Cormorant.",
+  "pages": [
+    "index.html",
+    "menu.html",
+    "about.html",
+    "contact.html"
+  ],
+  "preview_path": "/02-mi-tierra-windsor-premium/",
+  "photos_from": "Joey phone photos 2026-09-19/20 (homepage 9 plates); about spread joey-about-spread-20260917",
+  "menu_source": "Ported all items + prices from Essential /workspace/sites/live/02-mi-tierra-windsor/menu.html (in-store boards). Weekly specials from Essential index.",
+  "cache": "mitierra-joey-20260919-nachos",
+  "built_at": "2026-09-19T12:20:00Z"
+}
